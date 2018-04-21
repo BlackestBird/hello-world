@@ -1,5 +1,5 @@
 # hello-world
-Meaningless nonsense
+(be aware of the meaningless nonsense)
 
 Greatings!
 
